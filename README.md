@@ -7,6 +7,9 @@ This repo contains HTML, CSS and JavaScript files that are used for peer to peer
 - **_Resources_**
 - [VS Code extensions list ](https://javascript.plainenglish.io/a-guide-to-the-20-best-vscode-extensions-for-frontend-developers-f75a5d716091)
 - [Useful VS Code extensions](https://www.blog.duomly.com/13-useful-vs-code-extensions-for-front-end-development/)
+- Open Gitbash within VS Code
+    - [Integrated Terminal](https://code.visualstudio.com/docs/editor/integrated-terminal)
+    - [Second answer post with 410 rating](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal)
 
 ## Session - 3 : Wednesday 7 December 21
 

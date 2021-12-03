@@ -8,10 +8,14 @@ This repo contains HTML, CSS and JavaScript files that are used for peer to peer
 - [VS Code extensions list ](https://javascript.plainenglish.io/a-guide-to-the-20-best-vscode-extensions-for-frontend-developers-f75a5d716091)
 - [Useful VS Code extensions](https://www.blog.duomly.com/13-useful-vs-code-extensions-for-front-end-development/)
 - Open Gitbash within VS Code
-    - [Integrated Terminal](https://code.visualstudio.com/docs/editor/integrated-terminal)
-    - [Second answer post with 410 rating](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal)
+  - [Integrated Terminal](https://code.visualstudio.com/docs/editor/integrated-terminal)
+  - [Second answer post with 410 rating](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal)
 
 ## Session - 3 : Wednesday 7 December 21
+
+| Command                       | Explanation                                |
+| ----------------------------- | ------------------------------------------ |
+| option + select the text line | You can type same thing in multilple lines |
 
 - **_Resources_**
   - [CSS Fonts](https://www.cssfontstack.com/)
@@ -22,3 +26,30 @@ This repo contains HTML, CSS and JavaScript files that are used for peer to peer
     - [11 VSCode Keyboard Shortcuts that will Boost your Productivity](https://www.desuvit.com/11-vscode-keyboard-shortcuts-that-will-boost-your-productivity/)
     - [21 VSCode Shortcuts To Code Faster and Funner](https://jsmanifest.com/21-vscode-shortcuts-to-code-faster-and-funner/)
     - [42 Visual Studio Code Shortcuts for Boosting Your Productivity](https://www.sitepoint.com/visual-studio-code-keyboard-shortcuts/)
+
+## General Resources
+
+### **_HTML_**
+
+### ***CSS***
+
+- [Trending color palettes](https://coolors.co/palettes/trending)
+
+### ***JavaScript***
+
+#### Object Oriented Programming
+- [JavaScript Object Oriented Programming by Bogdan Stashchuk](https://www.udemy.com/course/object-oriented-programming-javascript/)
+- [Advanced and Object Oriented JavaScript and ES6](https://www.udemy.com/course/advanced-and-object-oriented-javascript/)
+- [Design Patterns in JavaScript](https://www.udemy.com/course/design-patterns-javascript/) 
+- [JavaScript Object-Oriented Masterclass](https://www.udemy.com/course/javascript-object-oriented-masterclass/)
+### ***GitHub README File***
+
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
+
+
+### ***Open Source Contribution for Beginners***
+- [Good First Issues ](http://goodfirstissues.com/)
+- [good first issue](https://goodfirstissue.dev/)
+- [LibHunt](https://www.libhunt.com/topic/good-first-issue)
+- [good-first-issue ](https://github.com/topics/good-first-issue)
+- [First Timers Only](https://www.firsttimersonly.com/)

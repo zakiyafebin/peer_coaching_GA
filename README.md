@@ -12,7 +12,7 @@ This repo contains HTML, CSS and JavaScript files that are used for peer to peer
   - [Second answer post with 410 rating](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal)
 - [HTML characters entities](https://dev.w3.org/html5/html-author/charref)
 
-## Session - 3 : Wednesday 7 December 21
+## Session - 3 : Wednesday 8 December 21
 
 - Instruction format : window (*mac*)
 

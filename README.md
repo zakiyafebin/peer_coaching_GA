@@ -10,12 +10,32 @@ This repo contains HTML, CSS and JavaScript files that are used for peer to peer
 - Open Gitbash within VS Code
   - [Integrated Terminal](https://code.visualstudio.com/docs/editor/integrated-terminal)
   - [Second answer post with 410 rating](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal)
+- [HTML characters entities](https://dev.w3.org/html5/html-author/charref)
 
 ## Session - 3 : Wednesday 7 December 21
 
-| Command                       | Explanation                                |
-| ----------------------------- | ------------------------------------------ |
-| option + select the text line | You can type same thing in multilple lines |
+- Instruction format : window (*mac*)
+
+|No| Command                       | Explanation                                |
+| ---|----------------------------- | ------------------------------------------ |
+|1|**Ctrl (Command)+ Shift + P**| Displays the command pallete. Command Palette provides access to many commands. You can execute commands|
+|2|Ctrl (Command) + P| Display the search bar to search for files in the project|
+|3| Alt (option) + select the text line | You can type same thing in multilple lines. It saves you time |
+|4|window(command) + ;| To get emoji🙌🚉✈🛤🗾🗺😉😿|
+|5|shift + Alt (option) + ⬇ or ⬆|Copy the current line to one line up or one line below|
+|6|Alt(option) + ⬇ or ⬆|Move the current line without copying to the place you want to move|
+|7|Ctrl (command) + B| Toggle the sidebar - show or hide the side bar where you can navigate through the explorer|
+|8|Ctrl (command) + Shift + E| Move to Explorer window where you have your file tree and can navigate using the arrow keys.|
+|9|Ctrl (command) + Shift + L| Multi cursor selection - Add additional cursors to edit all occurrences of the current selection. Usually less error-prone than doing search and replace all.|
+|10|Ctrl (command) + D|One by one selection : use Ctrl + D if you want to add the occurrences of the current selection one by one. Each time you press the key combination it adds a new occurrence to the selection.|
+|11|Ctrl (command) + /|Toggle between commented and uncommented line behavior|
+|12|Ctrl (command) + Spacebar|Shows suggestions to quickly fill properties and other stuff.|
+|13|Ctrl (command) + j or `| Toggle Terminal/Output/Debug Console view|
+|14|Shift + Alt (option) + ⬇ or ⬆ | Copy the current line|
+|15|Shift + Ctrl (command) + K |Remove the current line|
+|16|Ctrl + K + C| Comment lines selected|
+|17|Ctrl (command) + Shift + \| Go to matching bracket|
+
 
 - **_Resources_**
   - [CSS Fonts](https://www.cssfontstack.com/)
@@ -30,6 +50,8 @@ This repo contains HTML, CSS and JavaScript files that are used for peer to peer
 ## General Resources
 
 ### **_HTML_**
+- [HTML characters entities](https://dev.w3.org/html5/html-author/charref)
+- [Emmet HTML cheatsheet](https://docs.emmet.io/cheat-sheet/)
 
 ### ***CSS***
 

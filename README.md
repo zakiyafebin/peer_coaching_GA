@@ -46,6 +46,8 @@ This repo contains HTML, CSS and JavaScript files that are used for peer to peer
     - [11 VSCode Keyboard Shortcuts that will Boost your Productivity](https://www.desuvit.com/11-vscode-keyboard-shortcuts-that-will-boost-your-productivity/)
     - [21 VSCode Shortcuts To Code Faster and Funner](https://jsmanifest.com/21-vscode-shortcuts-to-code-faster-and-funner/)
     - [42 Visual Studio Code Shortcuts for Boosting Your Productivity](https://www.sitepoint.com/visual-studio-code-keyboard-shortcuts/)
+    - [HTML semantics cheat sheet](https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
+    - [HTML Cheatsheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
 
 ## General Resources
 

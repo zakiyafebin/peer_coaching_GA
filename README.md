@@ -1,7 +1,7 @@
 # Peer to Peer Coaching Session
 
 This repo contains HTML, CSS and JavaScript files that are used for peer to peer coaching sessions.
-
+<hr>
 ## Session - 2 : Wednesday 1 December 21
 
 - **_Resources_**
@@ -11,6 +11,8 @@ This repo contains HTML, CSS and JavaScript files that are used for peer to peer
   - [Integrated Terminal](https://code.visualstudio.com/docs/editor/integrated-terminal)
   - [Second answer post with 410 rating](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal)
 - [HTML characters entities](https://dev.w3.org/html5/html-author/charref)
+
+<hr>
 
 ## Session - 3 : Wednesday 8 December 21
 
@@ -37,7 +39,7 @@ This repo contains HTML, CSS and JavaScript files that are used for peer to peer
 |17|Ctrl (command) + Shift + \| Go to matching bracket|
 
 
-- **_Resources_**
+- **_References_**
   - [CSS Fonts](https://www.cssfontstack.com/)
   - VS Code Shortcut
     - [10 useful VS Code shortcuts you should know ()](https://dev.to/simonpaix/10-useful-vs-code-shortcuts-you-should-know-42m)
@@ -48,6 +50,47 @@ This repo contains HTML, CSS and JavaScript files that are used for peer to peer
     - [42 Visual Studio Code Shortcuts for Boosting Your Productivity](https://www.sitepoint.com/visual-studio-code-keyboard-shortcuts/)
     - [HTML semantics cheat sheet](https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/)
     - [HTML Cheatsheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
+
+<hr>
+
+## Session - 4 : Wednesday 15 December 21
+
+|No| Element                      | Explanation                                |
+| ---|----------------------------- | ------------------------------------------ |
+|1|Headings| #h1|
+|2||
+|3||
+|4||
+|5||
+|6||
+|7||
+|8||
+|9||
+|10||
+|11||
+|12||
+|13||
+|14||
+|15||
+|16||
+|17||
+|18||
+|19||
+|20||
+
+- **_References_**
+  - [Markdown List](https://www.markdownguide.org/tools/github-pages/)
+  - [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+  - [Advanced Formatting](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+  - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) 
+
+<hr>
+
+## Session - 5 : Wednesday 22 December 21
+
+- Small project - To be confirmed
+
+<hr>
 
 ## General Resources
 
@@ -68,7 +111,7 @@ This repo contains HTML, CSS and JavaScript files that are used for peer to peer
 - [JavaScript Object-Oriented Masterclass](https://www.udemy.com/course/javascript-object-oriented-masterclass/)
 ### ***GitHub README File***
 
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables)
+
 
 
 ### ***Open Source Contribution for Beginners***

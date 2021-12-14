@@ -55,28 +55,16 @@ This repo contains HTML, CSS and JavaScript files that are used for peer to peer
 
 ## Session - 4 : Wednesday 15 December 21
 
+**Learning Objectives**
+- [Trello](https://trello.com/)
+- README.md file 
+
 |No| Element                      | Explanation                                |
 | ---|----------------------------- | ------------------------------------------ |
 |1|Headings| #h1|
 |2||
 |3||
-|4||
-|5||
-|6||
-|7||
-|8||
-|9||
-|10||
-|11||
-|12||
-|13||
-|14||
-|15||
-|16||
-|17||
-|18||
-|19||
-|20||
+
 
 - **_References_**
   - [Markdown List](https://www.markdownguide.org/tools/github-pages/)
@@ -88,7 +76,51 @@ This repo contains HTML, CSS and JavaScript files that are used for peer to peer
 
 ## Session - 5 : Wednesday 22 December 21
 
-- Small project - To be confirmed
+- ***CSS Bootstrap*** - Almost all of the components are done via class
+- **Components**
+  - [Alerts](https://getbootstrap.com/docs/5.1/components/alerts/)
+    - class="alert alert-danger"
+    - class="alert-heading"
+    - Dismissing 
+    - aria - is something to do with screenreader
+  - [Badeges](https://getbootstrap.com/docs/5.1/components/badge/)
+    - Badges can be used as part of links or buttons to provide a counter.
+    - badge bg-secondary
+    - `<span class="badge bg-secondary">4</span>`
+  - [Buttons](https://getbootstrap.com/docs/5.1/components/buttons/)
+    - btn is everywhere.
+    - `<button type="button" class="btn btn-primary">Primary</button>`
+    - primary, secondary, success, danger, warning, info, light, dark, link
+    - Button tags
+    - Outline buttons
+  - [Button group](https://getbootstrap.com/docs/5.1/components/button-group/)
+    - class="btn-group"
+    - role="group" -> is for accessibility. It will tell the screenreader that this is a group of buttons
+- **Content**
+  - [Typography](https://getbootstrap.com/docs/5.1/content/typography/)
+    - display class - 1 to 6 - are used to make large header
+      - display-1
+      - display-2
+      - display-3
+      - display-4
+      - display-5
+      - display-6 
+    - class="lead" - make a paragraph stand out
+    - class="blockquote"
+    - class="blockquote-footer"
+    - class="mb-0"
+    - *Alignment* 
+      - class="text-center"
+      - class="text-end"
+- **Layout**
+  - [Containers](https://getbootstrap.com/docs/5.1/layout/containers/)
+    - .container
+    - .container-fluid
+- **Utilities**- They do not stand alone. They are added onto something.
+    -   [Colors](https://getbootstrap.com/docs/5.1/utilities/colors/)
+      - text-primary - change text color
+    - [Background](https://getbootstrap.com/docs/5.1/utilities/background/)
+        - bg-primary - change background colour
 
 <hr>
 
@@ -101,9 +133,14 @@ This repo contains HTML, CSS and JavaScript files that are used for peer to peer
 ### ***CSS***
 
 - [Trending color palettes](https://coolors.co/palettes/trending)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [https://css-tricks.com/the-css-box-model/](https://css-tricks.com/the-css-box-model/)
+- [A Complete Guide to CSS Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
+- [9 basic principles of responsive web design](https://blog.froont.com/9-basic-principles-of-responsive-web-design/)
 
 ### ***JavaScript***
 
+- [The Modern JavaScript Tutorial](https://javascript.info/)
 #### Object Oriented Programming
 - [JavaScript Object Oriented Programming by Bogdan Stashchuk](https://www.udemy.com/course/object-oriented-programming-javascript/)
 - [Advanced and Object Oriented JavaScript and ES6](https://www.udemy.com/course/advanced-and-object-oriented-javascript/)

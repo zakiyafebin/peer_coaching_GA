@@ -56,21 +56,59 @@ This repo contains HTML, CSS and JavaScript files that are used for peer to peer
 ## Session - 4 : Wednesday 15 December 21
 
 **Learning Objectives**
-- [Trello](https://trello.com/)
+- [Trello - Example of Agile Sprint Board](https://trello.com/)
+- ![Example Agile Sprint Board](./img/trello_sprintwork.png)
 - README.md file 
 
 |No| Element                      | Explanation                                |
 | ---|----------------------------- | ------------------------------------------ |
-|1|Headings| #h1|
-|2||
-|3||
+|1|Heading level 1| # h1|
+|2|Heading level 2| ## h2|
+|3|Heading level 3| ### h3|
+|4| Bold text | **bold text** |
+|5| Bold text | __bold text__ |
+|6| Italic text |*bold text* |
+|7| Bold and Italic text | ***bold text*** |
+|7.1| Strikethrough | ~~This text is a mistake. To be deleted~~ |
+|8| Block quote | > prepare the materials|
+|9| Multiple blockquotes| > Add > in multiple lines |
+|10| Nested blockquotes | >> This is nested blockquotes. |
+|11| Blockquotes with heading| > ### This is excellent! |
+|12| Blockquotes with list| > - This is excellent! |
+|13| Ordered List| 1. First Item 2. Second Item |
+|14| Unordered List| - First item - Second Item or * First Item * Second Item|
+|14.1| Combine Ordered and Unordered List| 1. First item 2. Second Item * Item 1 * Item 2|
+|14.2| Task Lists| - [x] Completed|
+|14.2| Task Lists if the description begins with a parenthesis()| - [x] \(Optional) task|
+|15| Images| ![Image name](./img/drink.jpg)|
+|16| Images resize using html img tag| <img src="./img/drink.jpg" alt="drawing" width="150"/>|
+|17| Backticks | <img src="./img/backticks.jpg" alt="drawing" width="150"/> |
+|17| Add code to markdown using backticks | `Use backticks for code : <p>Save the document by pressing </p>` |
+|17.1| Add block of code or quotes | ```git status git add git commit``` |
+|18| Horizontal Rules| *** or --- or ____________ or <hr>|
+|19| Add hyerlink| [Google](https://www.google.com/)|
+|20| URL and email addresses links| <https://www.google.com/>, **<testing@google.com>** |
+|21| Link | <details><summary>Link</summary>In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a [hobbit-hole][1], and that means comfort.  Add this in a separate link. [1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"</details>|
+|22| Add relative links for headings| [***Open Source Contribution for Beginners***](#open-source-contribution-for-beginners) |
+|23| Mention people and team on Github| use @username |
+|24| [Use emoji](https://gist.github.com/rxaviers/73609080)| :EMOJICODE:  , :smile:|
+|25|[Footnote](https://github.blog/changelog/2021-09-30-footnotes-now-supported-in-markdown-fields/)| This is my first footnote[^1].  [^1] : My reference|
+|26| [Create a collapsed section](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections)| <details><summary>Collapsed Section</summary>This is to create a collapsed section</details>|
+|27|[Table](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)|See this table|
 
+<details>
+<summary>References</summary>
 
-- **_References_**
   - [Markdown List](https://www.markdownguide.org/tools/github-pages/)
   - [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   - [Advanced Formatting](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
   - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) 
+
+</details>
+
+
+
+
 
 <hr>
 
